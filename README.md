@@ -1,5 +1,5 @@
 ### Hola 
-<span class="flag-icon flag-icon-ind"><img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg" width="20" height="25"/></span> in <span class="flag-icon flag-icon-ind"><img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/deu.svg" width="20" height="25"/></span
+<img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg" width="20" height="25"/> in <img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/deu.svg" width="20" height="25"/>
 
 
 - 👨🏻‍💻I’m currently working at Dolby Labs Inc. as a Cloud Solutions Architect.v
