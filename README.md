@@ -17,9 +17,3 @@
 </div>
 
 
-
-
-<br><br><br><br>
-
-## adios 
-<div><img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg" width="30" height="20"/> <img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/deu.svg" width="30" height="20"/></div>
