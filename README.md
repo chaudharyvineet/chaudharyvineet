@@ -1,11 +1,10 @@
 ### Hola 
-<img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg" width="20" height="25"/> in <img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/deu.svg" width="20" height="25"/>
 
 
-- 👨🏻‍💻I’m currently working at Dolby Labs Inc. as a Cloud Solutions Architect.v
+- 👨🏻‍💻I’m currently working at Dolby Labs Inc. as a Cloud Solutions Architect 
 - 🙇🏻‍♂️I’m always learning something new, mostly around security.
 - 💬 Ask me about anything! I might not know everything, but chances are it will push me.
-- 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/chaudharyvineet9/)
+- 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/chaudharyvineet9/) <img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg" width="30" height="20"/> in <img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/deu.svg" width="30" height="20"/>
 - ⚡ Fun fact: All my activities outside work, have nothing related to technology 🤣
 
 <div>
