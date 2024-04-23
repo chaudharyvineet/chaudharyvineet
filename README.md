@@ -1,5 +1,5 @@
 ### Hola 
-<span class="flag-icon flag-icon-ind"><img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg"/></span> <span class="flag-icon flag-icon-deu"></span>
+<span class="flag-icon flag-icon-ind"><img src="https://raw.githubusercontent.com/alexsobolenko/flag-icons/master/flags/1x1/ind.svg" width="10" height="15"/></span> <span class="flag-icon flag-icon-deu"></span>
 
 - 👨🏻‍💻I’m currently working at Dolby Labs Inc. as a Cloud Solutions Architect.v
 - 🙇🏻‍♂️I’m always learning something new, mostly around security.
